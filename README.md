@@ -185,6 +185,9 @@
 [Принципы работы современных веб-браузеров](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/)  
 [Движки рендеринга веб-страниц и советы по оптимизации их производительности](https://habrahabr.ru/company/ruvds/blog/351802/)  
 [Производительность визуализации](https://developers.google.com/web/fundamentals/performance/rendering/)  
+[Процесс визуализации](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)  
+[Jake Archibald: In The Loop - JSConf.Asia 2018](https://www.youtube.com/watch?v=cCOL7MC4Pl0)  
+[Задачи, микрозадачи, очереди и планы](https://habrahabr.ru/post/264993/)  
 [Website Performance Optimization. Udacity](https://www.udacity.com/course/website-performance-optimization--ud884)  
 [Browser Rendering Optimization. Udacity](https://www.udacity.com/course/browser-rendering-optimization--ud860)  
 
